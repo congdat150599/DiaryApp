@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyDiaryApp</string>
+    <string name="tendangnhap">Username</string>
+    <string name="gmail">Email Address</string>
+    <string name="matkhau">Password</string>
+    <string name="ngayinh">Birth Day</string>
+    <string name="dongy">Register</string>
+    <string name="thoat">Cancel</string>
+    <string name="dangky">REGISTER</string>
+</resources>
